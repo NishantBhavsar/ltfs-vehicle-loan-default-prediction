@@ -1,0 +1,7 @@
+https://github.com/yanxiali/Predicting-Default-Clients-of-Lending-Club-Loans
+
+https://github.com/harishpuvvada/LoanDefault-Prediction
+
+https://medium.com/henry-jia/bank-loan-default-prediction-with-machine-learning-e9336d19dffa
+
+https://towardsdatascience.com/predicting-loan-repayment-5df4e0023e92
