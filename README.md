@@ -7,9 +7,9 @@
 
 - Leader board rank - 242/1342
 
-[Analysis Notebook]()
+[Analysis Notebook](https://nbviewer.jupyter.org/github/NishantBhavsar/ltfs-vehicle-loan-default-prediction/blob/master/code/Analysis.ipynb)
 
-[Final model Notebook]()
+[Final model Notebook](https://nbviewer.jupyter.org/github/NishantBhavsar/ltfs-vehicle-loan-default-prediction/blob/master/code/model.ipynb)
 
 ### Libraries used:
 ```
